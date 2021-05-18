@@ -1,0 +1,12 @@
+table thead tr th {
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+table tbody tr td {
+    white-space: nowrap;
+}
+
+table {
+    width: 100% !important;
+}
